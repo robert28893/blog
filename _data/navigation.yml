@@ -1,11 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "Bài viết"
     url: /posts/
-  - title: "Categories"
+  - title: "Danh mục"
     url: /categories/
-  - title: "Tags"
+  - title: "Thẻ"
     url: /tags/
-  - title: "About"
+  - title: "Về chúng tôi"
     url: /about/
 
 docs:
