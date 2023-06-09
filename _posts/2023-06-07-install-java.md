@@ -1,7 +1,7 @@
 ---
 title: "Cài đặt java trên ubuntu"
 date: 2023-06-07 06:30:00 +0700
-category: java
+categories: java
 tags: java
 ---
 
