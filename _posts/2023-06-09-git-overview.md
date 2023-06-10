@@ -101,4 +101,5 @@ Kết quả
 ```sh
 git remote add origin ssh://git@git.domain.tld/repository.git 
 git remote -v
+git push -u origin main
 ```
