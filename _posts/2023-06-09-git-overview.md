@@ -60,6 +60,16 @@ user.email=youremail@domain.com
 ```
 
 # Một số lệnh cơ bản của git
+
+Tạo thư mục làm việc
+
+Chúng ta tạo một thư mục `testing` và một file `file` trong đó
+```sh
+mkdir testing
+cd testing
+touch file
+```
+
 Khởi tạo git repo mới
 ```sh
 git init
