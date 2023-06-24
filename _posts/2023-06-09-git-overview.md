@@ -1,8 +1,8 @@
 ---
 title: "Tổng quan về git"
 date: 2023-06-09 06:30:01 +0700
-categories: git
-tags: git
+categories: ["git"]
+tags: ["git"]
 ---
 
 # Tổng quan

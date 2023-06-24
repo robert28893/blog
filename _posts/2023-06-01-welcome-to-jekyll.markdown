@@ -1,8 +1,9 @@
 ---
 title:  "Welcome to Jekyll!"
 date:   2023-06-01 14:47:25 +0700
-categories: jekyll update
-tags: tag1 tag2
+categories: ["jekyll", "update"]
+tags: ["tag1", "tag2"]
+published: false
 ---
 # H1
 

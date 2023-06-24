@@ -1,8 +1,9 @@
 ---
 title:  "Spring vault"
 date:   2023-06-02 16:15:25 +0700
-categories: java spring
-tags: java spring
+categories: ["java", "spring"]
+tags: ["java", "spring"]
+published: false
 ---
 
 # Spring Cloud Vault
