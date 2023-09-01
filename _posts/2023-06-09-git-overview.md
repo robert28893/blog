@@ -31,7 +31,7 @@ sudo apt install git
 
 Kiểm tra
 ```sh
-java -version
+git -version
 ```
 
 Kết quả như sau
