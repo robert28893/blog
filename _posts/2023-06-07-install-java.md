@@ -13,6 +13,14 @@ sudo apt-get update
 
 ## 2. Cài OpenJDK
 
+Chạy lệnh sau để cài java. Trong đó `{version}` là phiên bản mà các bạn cần cài (ví dụ 8, 11, 17, ...)
+
+```sh
+sudo apt-get install openjdk-{version}-jdk
+```
+
+Các bước tiếp theo mình sẽ minh họa việc cài đặt với version java 8
+
 ```sh
 sudo apt-get install openjdk-8-jdk
 ```
